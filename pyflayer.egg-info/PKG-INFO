@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pyflayer
+Version: 0.0.0
+Summary: API Python Library for Learning Python Basics using Minecraft and Mineflayer.
+Home-page: https://github.com/accio3014/pyflayer
+Author: accio3014
+Author-email: accio3014@gmail.com
+License: MIT
+Keywords: minecraft python mineflayer education
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pyflayer
+pyflayer

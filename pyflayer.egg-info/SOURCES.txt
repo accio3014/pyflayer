@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pyflayer/__init__.py
+pyflayer.egg-info/PKG-INFO
+pyflayer.egg-info/SOURCES.txt
+pyflayer.egg-info/dependency_links.txt
+pyflayer.egg-info/top_level.txt
