@@ -1,10 +1,3 @@
-// This file is a JSON mapping sheet of block IDs prior to Minecraft version 1.12
-// and block names and block states from version 1.13 onwards. 
-// The numerical block IDs and names are accurate, but the `states` may differ.
-//
-// If you wish to use this file, you can load the JSON file by copying the link below:
-// https://raw.githubusercontent.com/accio3014/pyflayer/main/pyflayer/block_id_mapping.json
-
 {
   "0": {
     "name": "minecraft:air",
